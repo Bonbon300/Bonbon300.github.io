@@ -1,83 +1,90 @@
 # Bonbon300.github.io
-# Wachirawit Banloeng
+# Bonbon
 
-[Your GitHub Profile](https://github.com/yourusername) | [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) | [Your Email](mailto:youremail@example.com)
+**Email:** bonbon.email@example.com  
+**LinkedIn:** [linkedin.com/in/bonbon](https://linkedin.com/in/bonbon)  
+**GitHub:** [github.com/bonbon](https://github.com/bonbon)  
 
 ---
 
-## Summary
+## Objective
 
-Dedicated educator with experience in teaching English and Thai and a passion for empowering students through technology and hands-on learning. Proven ability to design engaging curricula and foster a positive learning environment.
+A highly motivated software developer with a passion for building efficient and scalable web applications. With strong experience in both front-end and back-end technologies, I am seeking to contribute my skills to innovative teams and projects in a challenging environment. My goal is to continue expanding my technical knowledge while delivering impactful solutions.
 
 ---
 
 ## Skills
 
-- **Languages:** English, Thai, Chinese
-- **Web Development:** HTML, CSL
-- **Tools & Technologies:** Zoom, Google Meet
-- **Teaching Skills:** Curriculum Development, Classroom Management, Personalised worksheets
+- **Programming Languages:** JavaScript, Python, HTML, CSS, SQL  
+- **Frameworks & Libraries:** React, Node.js, Express, Django  
+- **Database Management:** MySQL, MongoDB, PostgreSQL  
+- **Version Control:** Git, GitHub, GitLab  
+- **DevOps:** Docker, Jenkins, AWS  
+- **Soft Skills:** Problem-solving, teamwork, adaptability, effective communication  
 
 ---
 
 ## Experience
 
-### [Your Job Title]  
-**[Your Institution/Organization]**  
-[Month, Year] – Present
+### Full-Stack Developer, Tech Innovators Inc.  
+*March 2021 - Present*  
+- Led the development of a customer-facing web application using React and Node.js, improving user experience and reducing page load times by 30%.  
+- Worked closely with the DevOps team to implement CI/CD pipelines, ensuring smooth and frequent deployment of updates.  
+- Designed RESTful APIs that integrated third-party services, handling up to 10,000 requests per minute with optimized performance.  
+- Collaborated with cross-functional teams to build and test features, focusing on scalability and security.
 
-- Developed and implemented curriculum for [subjects/grades].
-- Leveraged technology to enhance student engagement and learning outcomes.
-- Mentored students in [specific projects/skills].
+### Front-End Developer, Creative Solutions Ltd.  
+*July 2018 - February 2021*  
+- Developed dynamic and responsive websites for various clients, using HTML, CSS, and JavaScript to create user-friendly interfaces.  
+- Implemented custom JavaScript animations and features that enhanced user engagement by 20%.  
+- Worked with designers to translate UI/UX wireframes into functional code, maintaining design consistency across all platforms.  
+- Participated in code reviews, ensuring code quality and adherence to industry best practices.
 
-### [Previous Job Title]  
-**[Previous Institution/Organization]**  
-[Month, Year] – [Month, Year]
-
-- Conducted classes on English for 7-16 years old.
-- Collaborated with colleagues to improve instructional practices.
-- Organized workshops and extra-curricular activities.
-
----
-
-## Projects
-
-### Private Tutor  
-- **Description:** Worked as a private tutor in Switzerland for 3 years.
-- **Technologies Used:** [List technologies, frameworks, etc.]
-- **Link:** [GitHub Repository or Live Demo]
-
-### Worked in a private institute in CNX  
-- **Description:** Worked for NES for 2 years. Tought English
-- **Technologies Used:** [List technologies, frameworks, etc.]
-- **Link:** [GitHub Repository or Live Demo]
+### Junior Developer, WebWorks Agency  
+*January 2017 - June 2018*  
+- Assisted in developing e-commerce platforms using WordPress and WooCommerce, customizing themes and plugins to meet client needs.  
+- Contributed to troubleshooting and debugging efforts, resolving performance bottlenecks and improving website load times.  
+- Gained experience in basic back-end development using PHP and MySQL to support client website needs.
 
 ---
 
 ## Education
 
-**[Your Degree]**  
-Payap University — 2026
-
-- Relevant Coursework: [Course names related to your teaching and tech skills]
+**Bachelor of Science in Computer Science**, University of Technology  
+*Graduated: 2016*  
+- Focused on web development, algorithms, and software engineering principles.  
+- Completed a capstone project developing a cloud-based task management system.
 
 ---
 
 ## Certifications
 
-- [Certification Name] — [Issuing Organization] | [Year]
-- [Another Certification] — [Issuing Organization] | [Year]
+- **Certified JavaScript Developer**, JavaScript Institute - 2020  
+- **AWS Certified Solutions Architect**, Amazon Web Services - 2019  
+- **Full-Stack Web Development Bootcamp**, Code Academy - 2017
 
 ---
 
-## Community Involvement
+## Projects
 
-- Volunteer at [Organization/Program] — [Description of involvement].
-- Contributor to [Open Source Project/Community] — [Brief description].
+**1. TaskMaster Pro**  
+*Personal Project*  
+- Developed a task management application using React and MongoDB, allowing users to track tasks, set reminders, and collaborate in real-time.
+
+**2. E-Commerce Dashboard**  
+*Client Project*  
+- Built a customizable e-commerce dashboard for a retail client, enabling real-time tracking of sales, inventory, and customer insights.
+
+**3. Portfolio Website**  
+*Personal Project*  
+- Designed and coded a responsive personal portfolio website showcasing my work, utilizing HTML, CSS, and JavaScript.
 
 ---
 
-## References
+## Contact
 
-Available upon request.
+I'm always open to connecting with fellow professionals and exploring new opportunities.  
+Feel free to reach out via email or connect with me on [LinkedIn](https://linkedin.com/in/bonbon).
+
+
 
