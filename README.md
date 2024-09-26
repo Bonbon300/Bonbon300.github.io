@@ -1,5 +1,5 @@
 # Bonbon300.github.io
-# Your Name
+# Wachirawit Banloeng
 
 [Your GitHub Profile](https://github.com/yourusername) | [LinkedIn Profile](https://www.linkedin.com/in/yourprofile) | [Your Email](mailto:youremail@example.com)
 
@@ -7,16 +7,16 @@
 
 ## Summary
 
-Dedicated educator with experience in teaching [subjects/skills] and a passion for empowering students through technology and hands-on learning. Proven ability to design engaging curricula and foster a positive learning environment.
+Dedicated educator with experience in teaching English and Thai and a passion for empowering students through technology and hands-on learning. Proven ability to design engaging curricula and foster a positive learning environment.
 
 ---
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, [other languages]
-- **Web Development:** HTML, CSS, [any frameworks]
-- **Tools & Technologies:** Git, GitHub, [any other tools]
-- **Teaching Skills:** Curriculum Development, Classroom Management, [any specific teaching methods]
+- **Languages:** English, Thai, Chinese
+- **Web Development:** HTML, CSL
+- **Tools & Technologies:** Zoom, Google Meet
+- **Teaching Skills:** Curriculum Development, Classroom Management, Personalised worksheets
 
 ---
 
@@ -34,7 +34,7 @@ Dedicated educator with experience in teaching [subjects/skills] and a passion f
 **[Previous Institution/Organization]**  
 [Month, Year] – [Month, Year]
 
-- Conducted classes on [subjects/skills] for [age group].
+- Conducted classes on English for 7-16 years old.
 - Collaborated with colleagues to improve instructional practices.
 - Organized workshops and extra-curricular activities.
 
@@ -42,13 +42,13 @@ Dedicated educator with experience in teaching [subjects/skills] and a passion f
 
 ## Projects
 
-### [Project Title]  
-- **Description:** Briefly describe what the project is about.
+### Private Tutor  
+- **Description:** Worked as a private tutor in Switzerland for 3 years.
 - **Technologies Used:** [List technologies, frameworks, etc.]
 - **Link:** [GitHub Repository or Live Demo]
 
-### [Another Project Title]  
-- **Description:** Briefly describe the project.
+### Worked in a private institute in CNX  
+- **Description:** Worked for NES for 2 years. Tought English
 - **Technologies Used:** [List technologies, frameworks, etc.]
 - **Link:** [GitHub Repository or Live Demo]
 
@@ -57,7 +57,7 @@ Dedicated educator with experience in teaching [subjects/skills] and a passion f
 ## Education
 
 **[Your Degree]**  
-[Your University/College] — [Year of Graduation]
+Payap University — 2026
 
 - Relevant Coursework: [Course names related to your teaching and tech skills]
 
